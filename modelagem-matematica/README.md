@@ -1,4 +1,4 @@
-# Modelagem Matemática
+# Mathematical modeling of wave propagation – IMPA
 
 ## Project Overview
 
