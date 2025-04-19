@@ -4,6 +4,8 @@
 
 This repository contains a Jupyter Notebook (`notebooks/MODELAGEM_MATEMATICA.ipynb`) for mathematical modeling tasks. It includes data preparation, model formulation, and analysis implemented in Python.
 
+It’s a notebook containing the solutions to the problems posed in the doctoral course “Mathematical Modeling of Wave Propagation” at IMPA, Brazil.
+
 ## Repository Structure
 
 ```
